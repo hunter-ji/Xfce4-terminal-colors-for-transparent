@@ -6,8 +6,8 @@
 ![screenshots](screenshots.png)
 
 ## Installation
-````
-```git
+
+```
 git clone https://github.com/Kuari/Xfce4-terminal-colors-for-transparent.git
 
 cp Xfce4-terminal-colors-for-transparent/For_transparent.theme /usr/share/xfce4/terminal/colorschemes
